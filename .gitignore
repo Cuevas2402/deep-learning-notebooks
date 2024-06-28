@@ -1,0 +1,17 @@
+
+# ipynb
+.ipynb_checkpoints
+research/.ipynb_checkpoints
+practice/.ipynb_checkpoints
+
+
+# db
+research/db
+practice/db
+
+# models
+research/models
+practice/models
+
+PYTORCH_NOTEBOOKS
+
