@@ -3,8 +3,7 @@
 Spyder Editor
 
 This is a temporary script file.
-# %%
-hw"""
+# %% hw"""
 
 import open3d as o3d
 import numpy as np
